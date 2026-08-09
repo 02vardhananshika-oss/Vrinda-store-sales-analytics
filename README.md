@@ -1,2 +1,15 @@
-# retail-sales-dashboard
-Interactive retail sales dashboard using SQL, Excel and Power BI
+retail-sales-dashboard
+│
+├── 📁 Screenshots
+│   ├── dashboard.png
+│   ├── sales-analysis.png
+│   └── product-analysis.png
+│
+├── 📁 SQL
+│   └── analysis.sql
+│
+├── 📁 Data
+│   └── sample_data.xlsx
+│
+└── 📄 README.md
+
